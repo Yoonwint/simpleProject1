@@ -1,5 +1,5 @@
 # simpleProject1
-- This is simple project of home bakery using HTML and CSS.
+This is simple project of home bakery using HTML and CSS.
   
 ## Technologies Used
 - **HTML5:** Used to structure the content of the website.
