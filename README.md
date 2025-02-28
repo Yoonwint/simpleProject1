@@ -5,3 +5,6 @@
 - **HTML5:** Used to structure the content of the website.
 - **CSS3:** Used to style and create a visually appealing layout.
 - **Responsive Design:** Media queries to ensure the website is mobile-friendly.
+## Demo
+- You can view the live demo of the K-Drama website at (https://yoonwint.github.io/simpleProject1/).
+
