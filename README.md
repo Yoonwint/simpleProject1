@@ -6,5 +6,5 @@ This is simple project of home bakery using HTML and CSS.
 - **CSS3:** Used to style and create a visually appealing layout.
 - **Responsive Design:** Media queries to ensure the website is mobile-friendly.
 ## Demo
-- You can view the live demo of the K-Drama website at (https://yoonwint.github.io/simpleProject1/).
+- You can view the live demo of the K-Drama website at **https://yoonwint.github.io/simpleProject1/**.
 
